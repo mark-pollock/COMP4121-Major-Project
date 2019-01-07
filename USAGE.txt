@@ -1,0 +1,19 @@
+USAGE:
+
+./recommender -flag fileName [num]
+
+where:
+	flag
+is any of:
+w	for reading in wax data. This means fileName should
+	be a file that holds this wax data.
+
+t	for reading in test data. This means fileName should
+	be a file that holds this test data.
+
+s	for obtaining the recommendation. This means that fileName
+	should be a file that holds the information of the snow
+	that a recommendation is being requested for. num is
+	the number of wax recommendations for the program to
+	output. If num is omitted it is defaulted to 3.
+
