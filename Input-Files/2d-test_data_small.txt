@@ -1,0 +1,336 @@
+-3,72,-9,2,3,2,2,1,2
+Swix LF4X,Swix FC10X,Toko HelX Liquid Blue
+3.5625
+-3,72,-9,2,3,2,2,1,2
+Toko HF Red + Black,Swix FC7X,Vauhti hfC15.1 Flour Carbon Gel
+2.98056
+-3,72,-9,2,3,2,2,1,2
+Swix LF4X,Vauhti Silverfox wet,Toko HelX Liquid Red
+3.9625
+-3,72,-9,2,3,2,2,1,2
+Start HF8 Blue,Ski Go C105 powder,Ski Go C105 liquid
+2.57639
+-3,72,-9,2,3,2,2,1,2
+Ski Fo HF Red,Vauhti hfC21.1,Ski Go C44/7 liquid
+2.65972
+-3,72,-9,2,3,2,2,1,2
+Start HF4 Red,Ski Go C44 powder,Swix HVC Cold
+2.86806
+-3,72,-9,2,3,2,2,1,2
+Vauhti HF Blue + Yellow,Vauhti hfC21.1,Start SFR300 Liquid
+3.05972
+-3,72,-9,2,3,2,2,1,2
+Vauhti HF Blue,Vauhti Zerofox,Ski Go C55/C99 liquid
+2.3375
+-3,72,-9,2,3,2,2,1,2
+Start BM4 Molybdenum,Start SFR60 Powder,Vauhti hfC9.1 Sprint Gel
+3.94444
+-3,72,-9,2,3,2,2,1,2
+Swix CH5X,Ski Go C22 powder,Toko HelX Liquid Blue
+3.64028
+-3,72,-9,2,3,2,2,1,2
+Vauhti HF Blue + Yellow,Vauhti Goldfox powder,Vauhti Foxgel minus
+2.12083
+-3,72,-9,2,3,2,2,1,2
+Start BM4 Molybdenum,Swix FC10X,Toko HelX Liquid Yellow
+4.39583
+-3,72,-9,2,3,2,2,1,2
+Swix HF4X,Ski Go C44/7 powder,Vauhti hfC9.1 Sprint Gel
+2.59861
+-3,72,-9,2,3,2,2,1,2
+Swix HF8X,Vauhti hfC15.1,Vauhti Foxgel wet
+3.14583
+-3,72,-9,2,3,2,2,1,1
+Swix HF5X,Swix FC4X,Toko HelX Liquid Blue
+3.3625
+-3,72,-9,2,3,2,2,1,1
+Start BM2 Molybdenum,Vauhti Goldfox powder,Toko HelX Liquid Red
+4.39583
+-3,72,-9,2,3,2,2,1,1
+Swix HF4 BWX,Swix FC4X,Toko HelX Liquid Yellow
+2.40694
+-3,72,-9,2,3,2,2,1,1
+Start HF6 Violet,Vauhti hfC15.1,Vauhti hfC15.1 Flour Carbon Gel
+2.95556
+-3,72,-9,2,3,2,2,1,1
+Swix CH4X,Start SFR75 Powder,Toko HelX Liquid Yellow
+3.0625
+-3,72,-9,2,3,2,2,1,1
+Toko HF Red + Black,Start SFR92 Block,Ski Go C105 liquid
+3.86528
+-3,72,-9,2,3,2,2,1,1
+Swix HF4X,Ski Go C105 powder,Swix HVC Cold
+4.20972
+-3,72,-9,2,3,2,2,1,1
+Start HF2,Start SF30 Powder,Ski Go C22 liquid
+3.75
+-3,72,-9,2,3,2,2,1,1
+Ski Go HF Orange,Toko Jetstream Powder Red,Ski Go C22 liquid
+3.00694
+-3,72,-9,2,3,2,2,1,1
+Vauhti HF Violet,Start SFR92 Block,Toko HelX Liquid Red
+3.7625
+-3,72,-9,2,3,2,2,1,1
+Toko HF Yellow,Start SFR99 Block,Ski Go C44/7 liquid
+2.26389
+-3,72,-9,2,3,2,2,1,1
+Toko HF Blue,Vauhti Blackfox powder,Start SFR300 Liquid
+3.24028
+-3,72,-9,2,3,2,2,1,1
+Toko HF Red + Black,Swix FC7X,Swix HVC Cold
+2.85833
+-3,72,-9,2,3,2,2,1,1
+Swix HF7X,Start SFR30 Powder,Toko HelX Liquid Yellow
+3.00694
+-0.5,57,-1.5,0,3,2,0,1,3
+Swix HF4X,Toko Jetstream Powder Red,Toko HelX Liquid Yellow
+4.19583
+-0.5,57,-1.5,0,3,2,0,1,3
+Swix CH5X,Swix FC5X,Vauhti Foxgel minus
+4.82639
+-0.5,57,-1.5,0,3,2,0,1,3
+Start HF8 Blue,Start SFR92 Block,Vauhti Foxgel minus
+4.16944
+-0.5,57,-1.5,0,3,2,0,1,3
+Swix HF4X,Start SFR92 Block,Toko HelX Liquid Blue
+3.64028
+-0.5,57,-1.5,0,3,2,0,1,3
+Start HF4 Red,Vauhti Zerofox,Ski Go C55/C99 liquid
+4.3
+-0.5,57,-1.5,0,3,2,0,1,3
+Toko HF Red + Black,Start SFR60 Powder,Vauhti hfC15.1 Flour Carbon Gel
+2.65
+-0.5,57,-1.5,0,3,2,0,1,3
+Swix CH5X,Vauhti Goldfox powder,Ski Go C55/C99 liquid
+4.24306
+-0.5,57,-1.5,0,3,2,0,1,3
+Toko HF Blue,Vauhti hfC15.1,Swix HVC Cold
+4.17361
+-0.5,57,-1.5,0,3,2,0,1,3
+Vauhti HF Blue,Vauhti Goldfox powder,Start SFR40 Liquid
+3.44861
+-0.5,57,-1.5,0,3,2,0,1,3
+Toko HF Blue + Black,Ski Go C44/7 powder,Toko HelX Liquid Blue
+3.1625
+-0.5,57,-1.5,0,3,2,0,1,3
+Swix HF5 BWX,Start SFR99 Block,-
+4.275
+-0.5,57,-1.5,0,3,2,0,1,3
+Vauhti HF Silver,Ski Go C44 powder,Start SFR300 Liquid
+4.15278
+-0.5,57,-1.5,0,3,2,0,1,3
+Toko HF Blue + Black,Start SFR75 Powder,Toko HelX Liquid Red
+3.5625
+-0.5,57,-1.5,0,3,2,0,1,3
+Swix HF10 BWX,Ski Go C44 powder,Vauhti hfC9.1 Sprint Gel
+5.35139
+-0.5,57,-1.5,0,3,2,0,1,0
+Toko HF Blue,Vauhti Blackfox powder,Vauhti hfC9.1 Sprint Gel
+4.47361
+-0.5,57,-1.5,0,3,2,0,1,0
+Swix HF8 BWX,Vauhti Goldfox powder,Swix HVC Warm
+5.15
+-0.5,57,-1.5,0,3,2,0,1,0
+Start HF4 Red,Vauhti hfC21.1,Toko HelX Liquid Yellow
+4.35
+-0.5,57,-1.5,0,3,2,0,1,0
+Swix HF8 BWX,Start SFR99 Block,Swix HVC Warm
+5.25
+-0.5,57,-1.5,0,3,2,0,1,0
+Vauhti HF Green,Vauhti hfC9.1,Toko HelX Liquid Blue
+3.71806
+-0.5,57,-1.5,0,3,2,0,1,0
+Swix CH6X,Swix FC6X,Ski Go C44/7 liquid
+5.15
+-0.5,57,-1.5,0,3,2,0,1,0
+Start HF8 Blue,Vauhti Goldfox powder,Vauhti Foxgel minus
+4.55
+-0.5,57,-1.5,0,3,2,0,1,0
+Start HF2,Ski Go C44/7 powder,Vauhti hfC9.1 Sprint Gel
+4.47361
+-0.5,57,-1.5,0,3,2,0,1,0
+Toko HF Blue + Black,Swix FC7X,Ski Go C55/C99 liquid
+5.15
+-0.5,57,-1.5,0,3,2,0,1,0
+Toko HF Red + Black,Vauhti hfC15.1,Toko HelX Liquid Red
+3.34028
+-0.5,57,-1.5,0,3,2,0,1,0
+Start HFG,Swix FC6X,Toko HelX Liquid Red
+4.67361
+-0.5,57,-1.5,0,3,2,0,1,0
+Start HF8 Blue,Ski Go C44/7 powder,Swix HVC Warm
+5.17361
+-0.5,57,-1.5,0,3,2,0,1,0
+Vauhti HF Blue,Swix FC6X,Vauhti Foxgel wet
+4.10417
+-0.5,57,-1.5,0,3,2,0,1,0
+Swix HF7X,Ski Go C44 powder,Toko HelX Liquid Blue
+4.55
+-1,24,-7,1,3,2,2,1,0
+Ski Go HF Blue,Start SFR30 Powder,Toko HelX Liquid Blue
+4.30694
+-1,24,-7,1,3,2,2,1,0
+Swix HF6 BWX,Swix FC5X,Start SFR300 Liquid
+3.50833
+-1,24,-7,1,3,2,2,1,0
+Vauhti HF Yellow,Start SFR99 Block,Ski Go C22 liquid
+3.5
+-1,24,-7,1,3,2,2,1,0
+Swix HF10X,Ski Go C44 powder,Vauhti Foxgel wet
+3.34306
+-1,24,-7,1,3,2,2,1,0
+Swix HF7 BWX,Toko Jetstream Powder Yellow,Toko HelX Liquid Red
+4.35
+-1,24,-7,1,3,2,2,1,0
+Vauhti HF Blue + Yellow,Vauhti Blackfox powder,Start SFR40 Liquid
+3.77778
+-1,24,-7,1,3,2,2,1,0
+Vauhti HF Green,Start SFR75 Powder,Start SFR40 Liquid
+4.51528
+-1,24,-7,1,3,2,2,1,0
+Start HF6 Violet,Vauhti hfC15.1,Toko HelX Liquid Blue
+3.95139
+-1,24,-7,1,3,2,2,1,0
+Toko HF Yellow,Ski Go C105 powder,Toko HelX Liquid Yellow
+3.95139
+-1,24,-7,1,3,2,2,1,0
+Vauhti HF Molybden,Swix FC7X,Ski Go C55/C99 liquid
+4.4375
+-1,24,-7,1,3,2,2,1,0
+Swix LF5X,Start SFR60 Powder,Swix HVC Cold
+3.17361
+-1,24,-7,1,3,2,2,1,0
+Toko HF Yellow + Black,Vauhti Goldfox powder,Toko HelX Liquid Yellow
+4.98472
+-1,24,-7,1,3,2,2,1,0
+Swix LF6X,Ski Go C44/7 powder,Ski Go C22 liquid
+4.51528
+-1,24,-7,1,3,2,2,1,0
+Toko HF Red + Black,Vauhti Blackfox powder,Ski Go C22 liquid
+4.22917
+-1,24,-7,1,3,2,2,1,0
+Start HF6 Violet,Start SFR99 Block,Toko HelX Liquid Red
+4.50694
+-1,24,-7,1,3,2,2,1,0
+Toko HF Blue + Black,Start SFR40 Powder,Toko HelX Liquid Blue
+4.15
+-1,24,-7,1,3,2,2,1,0
+Toko HF Blue,Vauhti hfC21.1,Swix HVC Cold
+4.58472
+-1,24,-7,1,3,2,2,1,0
+Swix HF5X,Start SFR92 Block,Swix HVC Cold
+3.28194
+-1,24,-7,1,3,2,2,1,0
+Start HF6 Violet,Swix FC7X,Ski Go C22 liquid
+3.84722
+-1,24,-7,1,3,2,2,1,0
+Vauhti HF Violet,Start SFR99 Block,Vauhti Foxgel wet
+3.83056
+-1,24,-7,1,3,2,2,1,0
+Start HF8 Blue,Start SFR60 Powder,-
+3.77778
+-1,24,-7,1,3,2,2,1,0
+Ski Fo HF Red,Swix FC8X,Start SFR300 Liquid
+3.86111
+-1,24,-7,1,3,2,2,1,0
+Vauhti HF Green,Ski Go C44/7 powder,Ski Go C55/C99 liquid
+4.34583
+-1,24,-7,1,3,2,2,1,0
+Ski Fo HF Red,Ski Go C44 powder,Start SFR300 Liquid
+3.62083
+-1,24,-7,1,3,2,2,1,0
+Start BM6 Molybdenum,Swix FC6X,Ski Go C22 liquid
+4.81944
+-1,24,-7,1,3,2,2,1,0
+Swix LF4X,Ski Go C44/7 powder,Vauhti hfC15.1 Flour Carbon Gel
+4.13333
+-1,24,-7,1,3,2,2,1,0
+Toko HF Red + Black,Vauhti Goldfox powder,Vauhti hfC9.1 Sprint Gel
+4.66389
+-1,24,-7,1,3,2,2,1,0
+Start HF8 Blue,Ski Go C44 powder,Vauhti Foxgel wet
+3.38194
+1.5,69,-4.5,2,1,2,0,2,3
+Swix HF6X,Toko Jetstream Powder Red,Ski Go C22 liquid
+4.10417
+1.5,69,-4.5,2,1,2,0,2,3
+Toko HF Blue + Black,Ski Go C105 powder,-
+4.75
+1.5,69,-4.5,2,1,2,0,2,3
+Start HFG,Vauhti Goldfox powder,Toko HelX Liquid Blue
+3.84861
+1.5,69,-4.5,2,1,2,0,2,3
+Toko HF Blue,Swix FC6X,Swix HVC Warm
+3.14861
+1.5,69,-4.5,2,1,2,0,2,3
+Start HF6 Violet,Start SFR75 Powder,Vauhti hfC15.1 Flour Carbon Gel
+4.43056
+1.5,69,-4.5,2,1,2,0,2,3
+Vauhti HF Green,Swix FC4X,Vauhti hfC21.1 Flour Carbon Gel
+4.48611
+1.5,69,-4.5,2,1,2,0,2,3
+Toko HF Blue,Start SFR75 Powder,Ski Go C105 liquid
+4.59028
+1.5,69,-4.5,2,1,2,0,2,3
+Swix HF10X,Ski Go C22 powder,Ski Go C22 liquid
+4.38194
+1.5,69,-4.5,2,1,2,0,2,3
+Start HF6 Violet,Start SFR99 Block,Toko HelX Liquid Blue
+2.94861
+1.5,69,-4.5,2,1,2,0,2,3
+Swix HF7X,Ski Go C105 powder,Swix HVC Warm
+4.69444
+1.5,69,-4.5,2,1,2,0,2,3
+Start BM6 Molybdenum,Vauhti Zerofox,Ski Go C55/C99 liquid
+5.25
+1.5,69,-4.5,2,1,2,0,2,3
+Vauhti HF Silver,Start SFR99 Block,Vauhti hfC9.1 Sprint Gel
+3.65278
+1.5,69,-4.5,2,1,2,0,2,3
+Swix LF5X,Vauhti hfC21.1,Vauhti hfC21.1 Flour Carbon Gel
+4.0125
+1.5,69,-4.5,2,1,2,0,2,3
+Swix CH5X,Start SFR60 Powder,Vauhti Foxgel minus
+4.59028
+1.5,69,-4.5,2,1,2,0,2,4
+Swix HF4X,Swix FC5X,Toko HelX Liquid Blue
+3.47083
+1.5,69,-4.5,2,1,2,0,2,4
+Start HF4 Red,Start SFR99 Block,-
+2.53194
+1.5,69,-4.5,2,1,2,0,2,4
+Swix HF7X,Vauhti Goldfox powder,Toko HelX Liquid Yellow
+3.82639
+1.5,69,-4.5,2,1,2,0,2,4
+Ski Go HF Violet,Vauhti hfC15.1,Start SFR40 Liquid
+3.875
+1.5,69,-4.5,2,1,2,0,2,4
+Swix HF10 BWX,Ski Go C105 powder,Swix HVC Warm
+4.55
+1.5,69,-4.5,2,1,2,0,2,4
+Toko HF Red + Black,Ski Go C44 powder,Ski Go C55/C99 liquid
+5.26806
+1.5,69,-4.5,2,1,2,0,2,4
+Start HF10 Green,Start SFR99 Block,Vauhti hfC9.1 Sprint Gel
+3.15278
+1.5,69,-4.5,2,1,2,0,2,4
+Start BM6 Molybdenum,Start SFR92 Block,Ski Go C55/C99 liquid
+4.45
+1.5,69,-4.5,2,1,2,0,2,4
+Vauhti HF Pink,Vauhti Blackfox powder,Start SFR40 Liquid
+3.70833
+1.5,69,-4.5,2,1,2,0,2,4
+Start HF6 Violet,Swix FC6X,Ski Go C22 liquid
+3.27083
+1.5,69,-4.5,2,1,2,0,2,4
+Swix LF5X,Ski Go C44 powder,Swix HVC Warm
+3.32639
+1.5,69,-4.5,2,1,2,0,2,4
+Vauhti HF Silver,Vauhti Blackfox powder,Ski Go C55/C99 liquid
+4.25
+1.5,69,-4.5,2,1,2,0,2,4
+Vauhti HF Violet,Toko Jetstream Powder Blue,Toko HelX Liquid Blue
+3.57083
+1.5,69,-4.5,2,1,2,0,2,4
+Start BM4 Molybdenum,Vauhti Blackfox powder,Vauhti hfC21.1 Flour Carbon Gel
+4.10417

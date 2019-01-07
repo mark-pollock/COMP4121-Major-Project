@@ -1,0 +1,36 @@
+1-wax_data_text.txt:
+		Holds information for all the waxes on the market
+		that are looked at in this recommendation system.
+
+2a-2d:
+		2a holds all of the ratings that I extracted from
+		ski test data from several elite ski clubs. 2b - 2d
+		are subsets of this for more quickly evaluating my
+		program.	
+2a-test_data_very_large.txt: 	840 test data points, 47 unique snows.
+2b-test_data_large.txt:		336 test data points, 19 unique snows.
+2c-test_data_medium.txt:	168 test data points, 9 unique snows.
+2d-test_data_small.txt:		112 test data points, 7 unique snows.
+
+
+3a-snow_in_1.txt:
+		A snow that does not exist in the test data. Thus,
+		my algorithm will predominantly use the
+		k-Nearest Neighbour (kNN) method on similar snows.
+
+3b-snow_in_2.txt:
+		A snow that does exist in the test data for test
+		data 2a-2c. Thus, my algorithm will use both the wax and snow
+		versions of the kNN method.
+
+3c-snow_in_3.txt:
+		Another snow that does exist in the test data. Again
+		for data 2a-2c.
+
+3d-snow_in_4.txt:
+		Another snow that does exist in the test data. This
+		time for all 2a-2d.
+
+3e-snow_in_5.txt:
+		A snow that does not exist in the test data and is
+		really cold!
